@@ -1,6 +1,8 @@
 # People Counting
 
-the project is about couting people in real time on public places
+• Using Yolo v8 detected people on escalator frame by frame
+• Tracked movement of people through all frames
+• It can count up and down way traffic of people simultaneously.
 
 ## video
 
