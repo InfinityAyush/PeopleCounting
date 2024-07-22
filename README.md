@@ -13,3 +13,8 @@
 
 
 
+## Run 
+
+- pip install Requirements.txt
+
+- python Peoppl
