@@ -13,8 +13,26 @@
 
 
 
-## Run 
+## Getting Started
 
-- pip install Requirements.txt
+To get started with the AI-Powered Study Plan Generator, follow these steps:
 
-- python Peoppl
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/yourusername/PeopleCounting.git
+    ```
+
+2. **Navigate to the Project Directory**:
+    ```bash
+    cd PeopleCounting
+    ```
+
+3. **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Run the Application**:
+    ```bash
+    python People-Counter.py
+    ```
